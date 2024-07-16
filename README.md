@@ -1,5 +1,5 @@
 # dateFormatter
-This project is a simple web application that displays the current date in different formats based on the user's selection.
+This project is a simple web application that displays the current date in different formats based on the user's selection
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,17 +8,17 @@ This project is a simple web application that displays the current date in diffe
 - [Usage](#usage)
 
 ## Overview
-The Date Formatter project provides an interactive interface for displaying the current date in various formats. 
-Users can select their preferred date format from a dropdown menu, and the displayed date will update accordingly.
+The Date Formatter project provides an interactive interface for displaying the current date in various formats
+Users can select their preferred date format from a dropdown menu, and the displayed date will update accordingly
 
 ## Features
-- Display the current date.
-- Update the displayed date based on user-selected format options.
+- Display the current date
+- Update the displayed date based on user-selected format options
 
 ## Getting Started
 
 ### Prerequisites
-- A modern web browser.
+- Any modern web browser
 
 ### Installation
 1. Clone the repository
